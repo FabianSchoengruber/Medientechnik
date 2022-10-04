@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+		<meta charset="utf-8">
+        <title>Meine HTML Vorlage</title>
+        <meta name="description" content="Das ist ein ganz einfaches, gültiges HTML-Dokument">
+	</head>
+	<body>
+		<h1>Variante 1</h1>
+		<p><img src="landscape.jpg" alt="Landschaft"></p>
+		<h1>Variante 2</h1>
+		<p><img src="landscape.jpg" alt="Landschaft" width="800"></p>
+		<h1>Variante 3</h1>
+		<p><img src="landscape.jpg" alt="Landschaft" height="200"></p>
+		<h1>Variante 4</h1>
+		<p><img src="landscape.jpg" alt="Landschaft" width="100"><img src="landscape.jpg" alt="Landschaft" width="100"><img src="landscape.jpg" alt="Landschaft" width="100"><img src="landscape.jpg" alt="Landschaft" width="100"><img src="landscape.jpg" alt="Landschaft" width="100"></p>
+        <h1>Variante 5</h1>
+		<p><img src="landscape.jpg" alt="Landschaft" height="100"><img src="landscape.jpg" alt="Landschaft" height="100"><img src="landscape.jpg" alt="Landschaft" height="100"><img src="landscape.jpg" alt="Landschaft" height="100"><img src="landscape.jpg" alt="Landschaft" height="100"></p>
+		<h1>Variante 6</h1>
+        <p><img src="landscape.jpg" alt="Landschaft" height="100"><img src="landscape.jpg" alt="Landschaft" height="100"><img src="landscape.jpg" alt="Landschaft" height="100"><img src="landscape.jpg" alt="Landschaft" height="100"><img src="landscape.jpg" alt="Landschaft" height="100"></p>
+		<p><img src="landscape.jpg" alt="Landschaft" height="100"><img src="landscape.jpg" alt="Landschaft" height="100"><img src="landscape.jpg" alt="Landschaft" height="100"><img src="landscape.jpg" alt="Landschaft" height="100"><img src="landscape.jpg" alt="Landschaft" height="100"></p>
+		
+		
+	</body>
+</html>
